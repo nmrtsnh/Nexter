@@ -47,7 +47,7 @@
     &::after {
       content: "";
       height: 1px;
-      display: inline-block;
+      display: block;
       background-color: currentColor;
     }
   }
